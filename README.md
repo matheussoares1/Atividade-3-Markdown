@@ -1,4 +1,4 @@
-# Projeto de Modernização Tecnológica: Aquisição de Notebooks — Escola Futuro Digital
+# Projeto de Modernização Tecnológica: Aquisição de Notebooks — Escola Estadual de Educação Profissional Manoel Mano
 
 > **Status**: Proposta técnica para apreciação da direção e setor de compras.  
 > **Versão**: 1.1 (com análises e gráficos gerados por Python)
@@ -32,13 +32,12 @@ A infraestrutura atual sofre com lentidão, alto consumo de energia e limitaçã
 ![Distribuição dos Custos](custo_distribuicao_pizza.png)  
 *Figura 1 — Distribuição percentual dos custos do projeto.*
 
+<img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/1920a071-6131-45d5-a162-3426b39d08e1" />
+*Figura 2 — ThinkPad T14s Snapdragon X Elite 64GB 1TB SSD Windows 11 Pro 14" Ultra HD*
+
 **Links de referência (exemplos):**  
-- Especificações ThinkPad T14s (exemplo de perfil corporativo).  
-- Benefícios de mobilidade na educação (ex.: Intel Education).  
-- Vídeos de referência fornecidos na atividade:  
-  - https://www.youtube.com/watch?v=myQuetgSEsY  
-  - https://www.youtube.com/watch?v=D-qlLy5DNZA  
-  - https://www.youtube.com/watch?v=mu-SRK3sKik  
+- Especificações ThinkPad T14s (exemplo de perfil corporativo).
+https://www.lenovo.com/br/pt/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14s-gen-6-14-inch-snapdragon/21n20003br?orgRef=https%253A%252F%252Fwww.google.com%252F&cid=us:seo:ybha4&srsltid=AfmBOoq13obkQhvITZWumhvvEFZUO0moAvoY4ocpSDwEAfKB72n7uDuZN_k
 
 ## 5. Orçamento Estimado
 Arquivo em **Excel** com detalhes: [`orcamento_notebooks.xlsx`](orcamento_notebooks.xlsx)
